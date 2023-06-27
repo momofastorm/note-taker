@@ -62,4 +62,8 @@ License
 This project is licensed under the MIT License.
 
 
+![Screenshot 2023-06-27 151634](https://github.com/momofastorm/note-taker/assets/127702972/ddd03ba7-84f1-428b-81c0-d13a2cb88b51)
+
+
+
 
